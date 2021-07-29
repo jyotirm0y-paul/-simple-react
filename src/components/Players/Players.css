@@ -1,0 +1,15 @@
+.player{
+  border: 1px solid rgb(54, 43, 196);
+  margin-bottom: 5px;
+  padding-bottom: 5px;
+  margin-right: 5px;
+}
+.main-button{
+  margin: 15px 0px 5px 0px;
+  height: 35px;
+  width: 100px;
+  border-radius: 10px;
+  color: white;
+  cursor: pointer;
+  
+}
